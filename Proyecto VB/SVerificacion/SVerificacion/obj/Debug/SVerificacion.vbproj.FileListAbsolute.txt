@@ -1,0 +1,30 @@
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\bin\Debug\SVerificacion.exe.config
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\bin\Debug\SVerificacion.exe
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\bin\Debug\SVerificacion.pdb
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\bin\Debug\SVerificacion.xml
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.vbprojResolveAssemblyReference.cache
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Error_de_pagina.resources
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.VerificarU.resources
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Resources.resources
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Usuario.resources
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.vbproj.GenerateResource.Cache
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.exe
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.xml
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.pdb
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Administrador_1.resources
+C:\Users\sofir\OneDrive\Documentos\Visual Studio 2015\Projects\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Secretario_0.resources
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\bin\Debug\SVerificacion.exe.config
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.exe
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.xml
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.pdb
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\bin\Debug\SVerificacion.exe
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\bin\Debug\SVerificacion.pdb
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\bin\Debug\SVerificacion.xml
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.vbprojResolveAssemblyReference.cache
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Administrador_1.resources
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Error_de_pagina.resources
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.VerificarU.resources
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Resources.resources
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Secretario_0.resources
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.Usuario.resources
+C:\Users\PC 23 lab 4\Desktop\SVerificacion\SVerificacion\obj\Debug\SVerificacion.vbproj.GenerateResource.Cache
